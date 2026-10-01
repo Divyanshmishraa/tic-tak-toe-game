@@ -4,7 +4,7 @@ A simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-[Play Tic Tac Toe](https://github.com/Divyanshmishraa/tic-tak-toe-game.git)
+[Play Tic Tac Toe](http://127.0.0.1:5500/tic_tak_toe/tic_tak_toe.html)
 
 ## 📌 Features
 
