@@ -22,6 +22,30 @@ A simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaS
 - **CSS3** – Provides styling and layout
 - **JavaScript** – Handles game logic and user interactions
 
+## This is my initial page of tic-tak-toe game
+##
+##
+
+<img width="1920" height="1040" alt="game1" src="https://github.com/user-attachments/assets/66459b98-b8e0-4975-88d6-f20e9ae67415" />
+
+##
+##
+
+<img width="1920" height="1040" alt="game2" src="https://github.com/user-attachments/assets/79bafbc3-bd04-42fb-90b8-502a475a90de" />
+
+##
+##
+#### This is a demo video that show what my game can do.
+
+##
+##
+
+
+https://github.com/user-attachments/assets/c9a030c1-1639-4018-8071-10f507d78614
+
+
+
+
 ## 📂 Project Structure
 
 ```text
